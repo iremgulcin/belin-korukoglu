@@ -1,0 +1,16 @@
+SiteInfor	Site information
+Country	        Country name
+Latitude	Latitude of site
+Longitude	Longitude of site
+Elevation	Elevation of site
+Tannual	        Annual average air temperature
+MAT	        Mean annual air temperature within study period (1960-2017?)
+MAP	        Mean annual precipitation within study period (1960-2017?)
+Texture	        Soil texture
+SoilpH	        Soil pH
+SoilFamily	Soil family or soil group information, should be note that there are may soil classification system in the word
+CoverCrop	Cover crop type, some literature called catch crop, green manure
+CoverCropGroup	Cover crop grouped by function or family, please see more details in the CoverCropGroup sheet
+GrainCrop	Grain crop type, also called cash crop
+GrainCropGroup	Grain crop grouped by function or family, please see more details in the GrainCropGroup sheet
+
